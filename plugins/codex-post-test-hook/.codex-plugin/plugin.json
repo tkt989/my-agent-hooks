@@ -1,0 +1,6 @@
+{
+  "name": "codex-post-test-hook",
+  "version": "1.0.0",
+  "description": "ツール実行後にhogeを出力するテストHook"
+}
+

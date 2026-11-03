@@ -1,0 +1,12 @@
+{
+  "hooks": [
+    {
+      "event": "PostToolUse",
+      "matcher": ".*",
+      "command": "bash ${PLUGIN_ROOT}/post-hook.sh",
+      "statusMessage": "hogeを出力中...",
+      "timeout": "5s"
+    }
+  ]
+}
+

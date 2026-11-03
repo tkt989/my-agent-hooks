@@ -1,0 +1,11 @@
+{
+  "name": "my-custom-marketplace",
+  "plugins": [
+    {
+      "name": "codex-post-test-hook",
+      "source": "./plugins/codex-post-test-hook",
+      "description": "ツール実行後にhogeを出力するテストHook"
+    }
+  ]
+}
+
