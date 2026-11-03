@@ -1,0 +1,16 @@
+{
+  "name": "my-agent-hooks",
+  "owner": "tkt989",
+  "plugins": [
+    {
+      "name": "codex-post-test-hook",
+      "source": "./codex-post-test-hook",
+      "description": "hogeを出力するテストHook"
+    },
+    {
+      "name": "swift-format-hook",
+      "source": "./swift-format-hook",
+      "description": "swift format"
+    }
+  ]
+}
